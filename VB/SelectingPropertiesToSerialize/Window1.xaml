@@ -1,4 +1,4 @@
-﻿<Window x:Class="SelectingPropertiesToSerialize.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" Title="Save &amp; Restore Layout" Height="236" Width="300">
+<Window x:Class="SelectingPropertiesToSerialize.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" Title="Save &amp; Restore Layout" Height="236" Width="300">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
